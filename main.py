@@ -7,7 +7,6 @@ import subprocess
 import sys
 import time
 from logging.handlers import RotatingFileHandler
-import online.helpers.vid as helper
 from online.Config import *
 from online.helpers.button import keyboard
 from online.helpers.sudoers import *
