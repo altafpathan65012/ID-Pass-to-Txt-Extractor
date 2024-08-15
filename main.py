@@ -7,9 +7,6 @@ import subprocess
 import sys
 import time
 from logging.handlers import RotatingFileHandler
-from subprocess import getstatusoutput
-from pyrogram.types import Message
-from pyromod import listen
 import online.helpers.vid as helper
 from online.Config import *
 from online.helpers.button import keyboard
