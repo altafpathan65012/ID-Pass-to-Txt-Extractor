@@ -9,7 +9,7 @@ import time
 from logging.handlers import RotatingFileHandler
 from subprocess import getstatusoutput
 
-from pyrogram import Client, filters
+
 from pyrogram.errors import FloodWait
 from pyrogram.types import Message
 from pyromod import listen
