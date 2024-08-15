@@ -4,8 +4,6 @@ import os
 import subprocess
 import time
 from subprocess import getstatusoutput
-
-import aiofiles
 import aiohttp
 import requests
 from pyrogram import Client
