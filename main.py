@@ -7,7 +7,7 @@ import subprocess
 import sys
 import time
 from logging.handlers import RotatingFileHandler
-from online.Config import
+from online.Config import *
 from online.helpers.button import keyboard
 from online.helpers.sudoers import *
 from online.helpers.text import *
